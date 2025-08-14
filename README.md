@@ -22,3 +22,5 @@ la linea 10 y 11 se corrigieron
 la linia 25 y 35 se corrigio por string 
 se agrego un enum el cual va a traer los tipos de usuarios 
 ![img_1.png](img_1.png)
+
+![img_2.png](img_2.png)
