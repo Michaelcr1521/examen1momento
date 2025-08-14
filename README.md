@@ -20,3 +20,4 @@ en la clase usuario
 en la linea 5 se completo 
 la linea 10 y 11 se corrigieron 
 la linia 25 y 35 se corrigio por string 
+se agrego un enum el cual va a traer los tipos de usuarios 
