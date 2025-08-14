@@ -13,6 +13,7 @@ en la clase docente
 en la linea 7 se completo 
 se le creo los constructores , tambien los get y los set 
  en este segundo commit se agrego la base de datos 
+se agrego el @id 
 
 tercera correcion 
 en la clase usuario
