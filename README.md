@@ -13,3 +13,9 @@ en la clase docente
 en la linea 7 se completo 
 se le creo los constructores , tambien los get y los set 
  en este segundo commit se agrego la base de datos 
+
+tercera correcion 
+en la clase usuario
+en la linea 5 se completo 
+la linea 10 y 11 se corrigieron 
+la linia 25 y 35 se corrigio por string 
